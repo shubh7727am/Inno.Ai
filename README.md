@@ -72,7 +72,7 @@ Thank you for your interest in InnoAI. Together, we can build a platform that si
 
 ### Let's Create Something Amazing!
 
-With passion and purpose,
+With passion and purpose,  
 -Shubham Choudhary
 
 
