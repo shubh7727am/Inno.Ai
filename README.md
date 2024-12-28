@@ -1,3 +1,6 @@
+# ![INNOAI](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+
+
 # InnoAI
 
 Welcome to **InnoAI**, a revolutionary app designed to simplify and automate the process of creating IoT and STEM projects/products. This is an open-source initiative aimed at empowering users with a seamless, step-by-step guide for project development, including circuit diagrams and UI generation for IoT apps (if applicable).
