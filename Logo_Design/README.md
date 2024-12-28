@@ -1,4 +1,4 @@
-# ![INNOAI](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+# ![INNOAI](design3.png)
 
 # Logo Design ReadMe
 
