@@ -37,11 +37,14 @@ This logo can be used in:
 - The **symbolism** bridges the gap between abstract concepts like neural networks and tangible ideas like IoT devices.
 - The **color theme** (#1D3066) adds a professional and futuristic aesthetic, emphasizing trust, intelligence, and innovation.
 
-# Logo Design
+# Logo Animation
 
 - Created with adobe after effects
 - Converted to json format via bodymovin plugin
 - Will be used for splash screen
+- Demo :
+  [Click here to view the HTML file](Animation_Render/demo/data.html)
+
 
 
 
