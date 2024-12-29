@@ -34,6 +34,7 @@ This logo can be used in:
 - The **minimalistic design** ensures the logo is versatile and adaptable for different mediums.
 - The **universal appeal** of the bulb and wireless signals ensures instant recognition and relatability.
 - The **symbolism** bridges the gap between abstract concepts like neural networks and tangible ideas like IoT devices.
+- The **color theme** (#1D3066) adds a professional and futuristic aesthetic, emphasizing trust, intelligence, and innovation.
 
 # Logo Design
 
@@ -47,3 +48,10 @@ This logo is a visual representation of interdisciplinary technological advancem
 
 
 -----------------------------Raw resources "Designed by Freepik" --------------------------
+
+
+
+
+
+
+
