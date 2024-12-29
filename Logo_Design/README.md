@@ -2,6 +2,7 @@
 
 ![INNOAI SPLASH SCREEN ANIMATION](Animation_Image_sequence/Comp%201/Comp%201_00119.png)
 
+
 # Logo Design 
 
 ## Overview
@@ -42,12 +43,16 @@ This logo can be used in:
 - Converted to json format via bodymovin plugin
 - Will be used for splash screen
 
+
+
 ## Conclusion
 This logo is a visual representation of interdisciplinary technological advancements, symbolizing the seamless integration of AI, IoT, and innovation. It is designed to inspire and resonate with individuals and organizations working in cutting-edge tech fields.
 
 
 
 -----------------------------Raw resources "Designed by Freepik" --------------------------
+
+# Design and Animation by - SHUBHAM CHOUDHARY
 
 
 
