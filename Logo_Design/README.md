@@ -1,6 +1,6 @@
 # ![INNOAI](design3.png)
 
-# ![INNOAI SPLASH SCREEN ANIMATION](Animation_Image_sequence/Comp 1/Comp 1_00032.png)
+![INNOAI SPLASH SCREEN ANIMATION](Animation_Image_sequence/Comp%201/Comp%201_00032.png)
 
 # Logo Design 
 
