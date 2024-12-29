@@ -43,7 +43,7 @@ This logo can be used in:
 - Converted to json format via bodymovin plugin
 - Will be used for splash screen
 # Demo :
-  ![Dem0](Animation_Render/demo/data.gif)
+  ![Dem0](https//Animation_Render/demo/data.gif)
 
 
 
