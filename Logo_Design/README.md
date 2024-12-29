@@ -42,8 +42,9 @@ This logo can be used in:
 - Created with adobe after effects
 - Converted to json format via bodymovin plugin
 - Will be used for splash screen
-- Demo :
-  [Download this file on your device](Animation_Render/demo/data.html)
+# Demo :
+  ![Dem0](Animation_Render/demo/data.gif)
+
 
 
 
