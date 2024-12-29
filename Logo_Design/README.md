@@ -1,6 +1,7 @@
 # ![INNOAI](design3.png)
+# ![INNOAI SPLASH SCREEN ANIMATION](Comp 1_00032.png.png)
 
-# Logo Design ReadMe
+# Logo Design 
 
 ## Overview
 This logo has been designed to encapsulate the essence of innovation, artificial intelligence (AI), and the Internet of Things (IoT). It combines key elements symbolizing modern technological advancements and interdisciplinary connectivity.
@@ -32,6 +33,12 @@ This logo can be used in:
 - The **minimalistic design** ensures the logo is versatile and adaptable for different mediums.
 - The **universal appeal** of the bulb and wireless signals ensures instant recognition and relatability.
 - The **symbolism** bridges the gap between abstract concepts like neural networks and tangible ideas like IoT devices.
+
+# Logo Design
+
+- Created with adobe after effects
+- Converted to json format via bodymovin plugin
+- Will be used for splash screen
 
 ## Conclusion
 This logo is a visual representation of interdisciplinary technological advancements, symbolizing the seamless integration of AI, IoT, and innovation. It is designed to inspire and resonate with individuals and organizations working in cutting-edge tech fields.
